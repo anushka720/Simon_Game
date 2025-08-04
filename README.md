@@ -24,13 +24,6 @@ A browser-based memory game inspired by the classic "Simon Says". This game chal
 - CSS3
 - JavaScript (Vanilla)
 
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone or download the repository.
-2. Open `index.html` in your browser.
-3. Press any key and enjoy the game!
 
 ## 🙌 Acknowledgements
 
